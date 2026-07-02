@@ -1,41 +1,47 @@
 <div align="center">
 
-# Object Oriented Programming with Java
+# ☕ Object-Oriented Programming with Java
 
-<img src="assets/banner.png" alt="OOPs With Java Banner" width="100%">
+<img src="assets/banner.png" alt="Object Oriented Programming with Java Banner" width="100%"/>
 
-### A structured collection of Java Object-Oriented Programming practice programs.
+### A structured collection of Java programs built while learning the fundamentals of Object-Oriented Programming.
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-blue?style=for-the-badge)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+<p>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-00599C?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</p>
+
+*"Learning Java, one concept at a time."*
 
 </div>
 
 ---
 
-# About This Repository
+# 📖 About
 
 This repository documents my journey of learning **Object-Oriented Programming (OOP)** using **Java**.
 
-Instead of only reading theory, I practiced each core OOP concept by implementing small, focused Java programs. Every folder in this repository represents a different concept, helping me build a strong foundation before moving on to larger Java projects.
+Instead of only studying theory, I implemented each concept through small, focused Java programs. Every folder represents a different OOP topic, helping me build a strong foundation before moving on to larger Java applications.
 
-One program was uploaded every day for **12 consecutive days**, reflecting consistency, discipline, and continuous learning throughout the process.
-
----
-
-# Learning Objectives
-
-- Understand core Object-Oriented Programming concepts
-- Write clean and modular Java code
-- Learn how real-world classes interact with each other
-- Practice Java syntax through hands-on implementation
-- Build a solid foundation for advanced Java projects
+One program was completed and committed every day for **12 consecutive days**, reflecting consistency, discipline, and continuous learning.
 
 ---
 
-# OOP Concepts Covered
+# 🎯 Learning Goals
+
+- Learn Java Object-Oriented Programming from fundamentals
+- Understand how classes interact in real-world applications
+- Write clean, modular, and reusable Java code
+- Build strong programming habits through consistent daily practice
+- Prepare for advanced Java, DSA, and backend development
+
+---
+
+# 🧠 OOP Concepts Covered
 
 | Concept | Status |
 |---------|:------:|
@@ -49,91 +55,87 @@ One program was uploaded every day for **12 consecutive days**, reflecting consi
 
 ---
 
-# Repository Structure
+# 📂 Repository Structure
 
 ```text
 OOPs-With-Java/
 │
-├── Q01_Student_Management_System/
-│   └── Classes & Objects
+├── Q01_Student_Teacher/
 │
 ├── Q02_Bank_Account_System/
-│   └── Classes & Objects
 │
 ├── Q03_Mobile_Specification/
-│   └── Constructors
 │
 ├── Q04_Employee_Management_System/
-│   └── Constructor Overloading
 │
 ├── Q05_ATM_Machine/
-│   └── Encapsulation
 │
 ├── Q06_Product_Price/
-│   └── Encapsulation & Validation
 │
 ├── Q07_Vehicle_System/
-│   └── Inheritance
 │
 ├── Q08_University_System/
-│   └── Inheritance
 │
 ├── Q09_Method_Overloading/
-│   └── Compile-Time Polymorphism
 │
 ├── Q10_Method_Overriding/
-│   └── Runtime Polymorphism
 │
 ├── Q11_Payment_Gateway/
-│   └── Abstraction
 │
 ├── Q12_Shape_Area_Calculator/
-│   └── Abstraction
+│
+├── assets/
 │
 └── README.md
 ```
 
 ---
 
-# Programs Included
+# 📚 Programs Included
 
-| Question | Program | OOP Concept |
-|----------|---------|-------------|
-| Q01 | Student Management System | Classes & Objects |
-| Q02 | Bank Account System | Classes & Objects |
-| Q03 | Mobile Specification | Constructors |
-| Q04 | Employee Management System | Constructor Overloading |
-| Q05 | ATM Machine | Encapsulation |
-| Q06 | Product Price | Encapsulation & Validation |
-| Q07 | Vehicle System | Inheritance |
-| Q08 | University System | Inheritance |
-| Q09 | Method Overloading | Compile-Time Polymorphism |
-| Q10 | Method Overriding | Runtime Polymorphism |
-| Q11 | Payment Gateway | Abstraction |
-| Q12 | Shape Area Calculator | Abstraction |
-
----
-
-# Consistency & Learning Journey
-
-This repository represents **12 consecutive days of Java practice**.
-
-Instead of rushing through concepts, I focused on understanding each topic individually, implementing it in code, and committing my progress daily.
-
-This repository reflects my learning process, coding discipline, and commitment to improving one concept at a time.
+| Day | Program | Concept |
+|-----|---------|----------|
+| Day 1 | Student Teacher System | Classes & Objects |
+| Day 2 | Bank Account System | Classes & Objects |
+| Day 3 | Mobile Specification | Constructors |
+| Day 4 | Employee Management System | Constructor Overloading |
+| Day 5 | ATM Machine | Encapsulation |
+| Day 6 | Product Price | Encapsulation & Validation |
+| Day 7 | Vehicle System | Inheritance |
+| Day 8 | University System | Inheritance |
+| Day 9 | Method Overloading | Compile-Time Polymorphism |
+| Day 10 | Method Overriding | Runtime Polymorphism |
+| Day 11 | Payment Gateway | Abstraction |
+| Day 12 | Shape Area Calculator | Abstraction |
 
 ---
 
-# Technologies Used
+# 🚀 Key Takeaways
 
-- Java
-- Object-Oriented Programming
-- Git
-- GitHub
+Through these programs I practiced:
+
+- Creating and using Java classes and objects
+- Designing modular and reusable code
+- Applying all four pillars of OOP
+- Constructor overloading and method overloading
+- Runtime and compile-time polymorphism
+- Building clean project structures
+- Developing consistency through daily coding
 
 ---
 
-# Getting Started
+# 💻 Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Java | Programming Language |
+| OOP | Software Design Principles |
+| Git | Version Control |
+| GitHub | Code Hosting & Version Management |
+
+---
+
+# ▶️ Getting Started
 
 Clone the repository
 
@@ -141,42 +143,55 @@ Clone the repository
 git clone https://github.com/selenophile3582/OOPs-With_Java.git
 ```
 
-Navigate into the project
+Move into the project
 
 ```bash
 cd OOPs-With_Java
 ```
 
-Open any program folder in your preferred Java IDE (VS Code, IntelliJ IDEA, or Eclipse) and run the corresponding `Main.java` file.
+Open any program folder in your preferred IDE (VS Code, IntelliJ IDEA, or Eclipse) and run the corresponding `Main.java` file.
 
 ---
 
-# What's Next?
+# 📈 Learning Journey
 
-As I continue learning Java, this repository will grow with additional OOP practice problems and improvements.
+This repository represents **12 consecutive days** of Java practice.
 
-Future additions may include:
+Rather than solving random problems, I focused on learning one Object-Oriented Programming concept each day, implementing it in Java, and maintaining consistency through daily GitHub commits.
 
-- More Java OOP exercises
-- Collections Framework practice
-- Exception Handling
-- File Handling
-- Java Mini Projects
+This repository reflects both my technical growth and my commitment to continuous learning.
 
 ---
 
-# Connect With Me
+# 🛣️ Roadmap
+
+- ✅ Classes & Objects
+- ✅ Constructors
+- ✅ Encapsulation
+- ✅ Inheritance
+- ✅ Polymorphism
+- ✅ Abstraction
+- ⏳ Java Collections Framework
+- ⏳ Exception Handling
+- ⏳ File Handling
+- ⏳ Mini Projects
+- ⏳ Advanced Java
+
+---
+
+# 🤝 Connect With Me
 
 **Dhiraj Kumar**
 
-GitHub: https://github.com/selenophile3582
+GitHub:
+> https://github.com/selenophile3582
 
 ---
 
 <div align="center">
 
-### ⭐ If you found this repository helpful, consider giving it a star!
+### 🌱 Learning never stops.
 
-*"Consistency beats intensity. One program every day, one concept at a time."*
+*"Every expert was once a beginner who chose to stay consistent."*
 
 </div>
